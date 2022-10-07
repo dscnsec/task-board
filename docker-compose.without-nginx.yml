@@ -3,4 +3,4 @@ version: "2.4"
 services:
   mattermost:
     ports:
-      - ${APP_PORT}:8065
+      - ${APP_PORT}:80
